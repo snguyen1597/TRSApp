@@ -1,0 +1,7 @@
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\TRSApp.exe
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\appsettings.Development.json
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\appsettings.json
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\TRSApp.dll
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\TRSApp.deps.json
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\TRSApp.runtimeconfig.json
+C:\Users\snguy\Desktop\others\Csharp\Console\TRSApp\publish\TRSApp.pdb

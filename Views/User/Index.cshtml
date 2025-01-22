@@ -1,0 +1,23 @@
+﻿@model IEnumerable<TRSApp.Models.User>
+
+<h2>User List</h2>
+<table>
+    <thead>
+        <tr>
+            <th>Username</th>
+            <th>Email</th>
+            <th>Role</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Username</td>
+                <td>@user.Email</td>
+                <td>@user.Role</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Create")">Create New User</a>
